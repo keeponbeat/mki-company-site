@@ -13,4 +13,4 @@
 - マルチプレイヤー機能を実装（キャラの位置情報、ダメージ情報、ステート情報等をWEBSOCKETで通信）
 
 ---
-_(C) 2011　Murakami international LLC._
+_(C) 2011-2018　Murakami international LLC._
