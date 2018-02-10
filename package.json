@@ -5,7 +5,9 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
-    "test": "jest"
+    "test": "jest",
+    "build": "browserify client/index.js -o public/js/bundle.js",
+    "watch": "watchify client/index.js -o public/js/bundle.js"
   },
   "repository": {
     "type": "git",
