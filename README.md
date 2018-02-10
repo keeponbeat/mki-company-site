@@ -1,2 +1,7 @@
-# mki-company-site
-mki-company-site
+#ムラカミインターナショナル合同会社ウェブサイト  
+
+このリポジトリは、WEB制作・ゲーム制作の会社
+ムラカミインターナショナル合同会社のウェブサイト
+のGitリポジトリです.   
+
+(C) 2011　Murakami international LLC.
